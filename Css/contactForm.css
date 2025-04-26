@@ -13,8 +13,15 @@
   
   body {
      font-family: "Montserrat", sans-serif;
+<<<<<<< HEAD:Css/contactForm.css
     background-image: url(/images/bgimg.svg) no-repeat center/cover  #000000;
    
+=======
+       background: url("images/bg-img2.svg") no-repeat center/cover  #000000;
+/*     background-image: url(/images/bg-img.svg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+>>>>>>> 05b5e8aea99d14afc72f3539b68ba0a1a3568c87:Css/conatactForm.css
     color: #fbfbfb;
     margin: 0;
     padding: 0;
