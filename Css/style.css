@@ -44,3 +44,18 @@ nav ul li a {
     
     width: 100%;}
 
+
+.hireButton{
+      border: solid 2px transparent; 
+  transition: all 0.3s ease;
+  transform: scale(1.2, 0.8);
+    }
+
+.hireButton:hover{
+  
+  background-color: transparent;
+  border:solid white 2px;
+  color: white;
+  transform: scale(1.5);
+
+}
