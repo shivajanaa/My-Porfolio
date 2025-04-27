@@ -20,11 +20,11 @@ html {
 
 
 
-nav li:hover{
+nav li:hover, nav h1:hover{
     color: #FFC916;
 }
 
-nav ul li a {
+nav ul li a , nav h1{
     position: relative;
     transition: color 0.3s ease;
     
@@ -40,7 +40,7 @@ nav ul li a {
    
     transition: width 0.3s ease;
   }
-  nav ul li a:hover::after {
+  nav ul li a:hover::after, nav h1:hover::after {
     
     width: 100%;}
 
