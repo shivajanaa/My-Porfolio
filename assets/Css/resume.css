@@ -56,25 +56,16 @@ nav h1:hover::after {
 
 /* DOWNLOAD BUTTON */
 .download-btn {
-    padding: 18px 28px;
-    background-color: #FFC916;
-    color: black;
-    text-decoration: none;
     border-radius: 8px;
-    font-size: 14px;
-    font-weight: 500;
-    transition: background-color 0.3s ease, transform 0.3s ease;
     border: solid transparent 2px;
     display: inline-block;
     opacity: 0;
-    /* Start hidden! Important */
     visibility: hidden;
-    /* Start hidden! */
 }
 
 .download-btn:hover {
     background-color: transparent;
     color: white;
     border: solid white 2px;
-    transform: scale(1.05);
+    
 }
