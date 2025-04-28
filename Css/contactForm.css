@@ -13,7 +13,7 @@
   
   body {
      font-family: "Montserrat", sans-serif;
-     background: url("My-Porfolio/images/bgimg.svg") no-repeat center/cover  #000000;
+     background: url("/My-Porfolio/images/bgimg.svg") no-repeat center/cover  #000000;
      cursor: url('/My-Porfolio/images/cursor.svg'), auto;
  
    
