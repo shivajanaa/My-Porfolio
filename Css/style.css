@@ -11,7 +11,7 @@ body{
     background-size: cover;
     background-color: #000000; */
     background: url("/My-Porfolio/images/bgimg2.svg") no-repeat center/cover  #000000;
-    cursor: url('/images/cursor.svg'), auto;
+    cursor: url('/My-Porfolio/images/cursor.svg'), auto;
     }
 
 html {
@@ -22,14 +22,14 @@ html {
 
 nav a:hover, button:hover ,nav h1:hover {
     color: #FFC916;
-    cursor: url('/images/hand-pointer.svg'), auto;
+    cursor: url('/My-Porfolio/images/hand-pointer.svg'), auto;
 }
 
 
 nav ul li a , nav h1{
     position: relative;
     transition: color 0.3s ease;
-    cursor: url('/images/hand-pointer.svg'), auto;
+    cursor: url('/My-Porfolio/images/hand-pointer.svg'), auto;
     
   }
   nav ul li a::after {
@@ -40,11 +40,11 @@ nav ul li a , nav h1{
     width: 0%;
     height: 2px;
     background-color: #FFC916;
-    cursor: url('/images/hand-pointer.svg'), auto;
+    cursor: url('/My-Porfolio/images/hand-pointer.svg'), auto;
     transition: width 0.3s ease;
   }
   nav ul li a:hover::after, nav h1:hover::after {
-    cursor: url('/images/hand-pointer.svg'), auto;
+    cursor: url('/My-Porfolio/images/hand-pointer.svg'), auto;
     width: 100%;}
 
 /* BUTTON */
@@ -55,7 +55,7 @@ button{
 }
 button:hover{
   color: #ffffff;
-  cursor: url('/images/hand-pointer.svg'), auto;
+  cursor: url('/My-Porfolio/images/hand-pointer.svg'), auto;
   background-color: transparent;
   border: solid white 2px;
   
