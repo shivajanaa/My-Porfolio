@@ -5,9 +5,8 @@
     
   }
   
-  /* Set default font styles */
   html {
-    font-size: 16px;
+    
     scroll-behavior: smooth;
   }
   
@@ -15,12 +14,6 @@
      font-family: "Montserrat", sans-serif;
      background: url("/My-Porfolio/assets/images/bgimg.svg") no-repeat center/cover  #000000;
      cursor: url('/My-Porfolio/assets/images/cursor.svg'), auto;
- 
-   
-/*     background-image: url(/images/bg-img.svg);
-    background-repeat: no-repeat;
-    background-size: cover; */
-  
     margin: 0;
     padding: 0;
    

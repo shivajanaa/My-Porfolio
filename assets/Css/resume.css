@@ -1,3 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+  
+  html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+  }
+  
+  body {
+     font-family: "Montserrat", sans-serif;
+     background: url("/My-Porfolio/assets/images/bgimg.svg") no-repeat center/cover  #000000;
+     cursor: url('/My-Porfolio/assets/images/cursor.svg'), auto;
+ 
+
+  
+    margin: 0;
+    padding: 0;
+   
+  }
+
+
+
 /* NAVIGATION BAR */
 nav a:hover,
 nav h1:hover {
